@@ -40,6 +40,7 @@ This project analyzes the Global Shark Attack File ([GSAF](https://www.sharkatta
 - **Models Considered:** Logistic Regression, Decision Tree Classifier, Support Vector Classifier
 - **Final Model:** SVC
 - **Primary Metric:** Recall = 90% (high cost of false negatives)
+- See [Model Card](reports/model_card.pdf)
 
 
 ## How to View
